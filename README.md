@@ -1,1 +1,1 @@
-# learning-svelte
+# Learning Svelte
